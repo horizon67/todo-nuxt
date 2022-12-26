@@ -12,7 +12,6 @@
   "dependencies": {
     "core-js": "^3.25.3",
     "icon-package": "^0.0.1-security",
-    "node-ipc": "^11.1.0",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
