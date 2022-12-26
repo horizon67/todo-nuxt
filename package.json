@@ -10,7 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.15.1",
+    "ajax-libs": "^0.0.1-security",
     "core-js": "^3.25.3",
+    "icon-package": "^0.0.1-security",
+    "ionicio": "^0.0.1-security",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
